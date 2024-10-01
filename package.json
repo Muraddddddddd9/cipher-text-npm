@@ -1,0 +1,12 @@
+{
+  "name": "cipher-text",
+  "version": "1.0.4",
+  "description": "Encryption and text generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

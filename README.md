@@ -1,5 +1,8 @@
 # **TextCipher**
 
+[Link to npm](https://www.npmjs.com/package/cipher-text "GO NPM")
+-----------
+
 ### **Create an object with data *char*, *number*, *specialChar*, *size*** 
 
 ```js
